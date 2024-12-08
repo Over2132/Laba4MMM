@@ -1,0 +1,15 @@
+C:\Laba4MMM\Examples\Ex002\bin\Debug\net8.0\Ex002.exe
+C:\Laba4MMM\Examples\Ex002\bin\Debug\net8.0\Ex002.deps.json
+C:\Laba4MMM\Examples\Ex002\bin\Debug\net8.0\Ex002.runtimeconfig.json
+C:\Laba4MMM\Examples\Ex002\bin\Debug\net8.0\Ex002.dll
+C:\Laba4MMM\Examples\Ex002\bin\Debug\net8.0\Ex002.pdb
+C:\Laba4MMM\Examples\Ex002\obj\Debug\net8.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laba4MMM\Examples\Ex002\obj\Debug\net8.0\Ex002.AssemblyInfoInputs.cache
+C:\Laba4MMM\Examples\Ex002\obj\Debug\net8.0\Ex002.AssemblyInfo.cs
+C:\Laba4MMM\Examples\Ex002\obj\Debug\net8.0\Ex002.csproj.CoreCompileInputs.cache
+C:\Laba4MMM\Examples\Ex002\obj\Debug\net8.0\Ex002.sourcelink.json
+C:\Laba4MMM\Examples\Ex002\obj\Debug\net8.0\Ex002.dll
+C:\Laba4MMM\Examples\Ex002\obj\Debug\net8.0\refint\Ex002.dll
+C:\Laba4MMM\Examples\Ex002\obj\Debug\net8.0\Ex002.pdb
+C:\Laba4MMM\Examples\Ex002\obj\Debug\net8.0\Ex002.genruntimeconfig.cache
+C:\Laba4MMM\Examples\Ex002\obj\Debug\net8.0\ref\Ex002.dll
